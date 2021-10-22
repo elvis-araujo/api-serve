@@ -4,26 +4,26 @@
             "id": 1,
             "color": "#66CDD6",
             "img": "https://hoominterativa.com.br/apps/allin/assets/icon1.svg",
-            "title": "Dicas para limpeza e manutenção do meu Alinn"
+            "title": "Dicas"
         },
         {
 
             "id": 2,
             "color": "#EDC2A3",
             "img": "https://hoominterativa.com.br/apps/allin/assets/icon2.svg",
-            "title": "Dicas para limpeza e manutenção do meu Alinn"
+            "title": "Artigos"
         },
         {
             "id": 3,
             "color": "#A6ED90",
             "img": "https://hoominterativa.com.br/apps/allin/assets/icon3.svg",
-            "title": "Dicas para limpeza e manutenção do meu Alinn"
+            "title": "Novidades"
         },
         {
             "id": 4,
             "color": "transparent",
             "img": "https://hoominterativa.com.br/apps/allin/assets/icon4.svg",
-            "title": "Dicas para limpeza e manutenção do meu Alinn"
+            "title": "Mais"
         }
     ],
     "articles":[
