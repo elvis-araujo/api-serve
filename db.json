@@ -25,5 +25,27 @@
             "img": "https://hoominterativa.com.br/apps/allin/assets/icon4.svg",
             "title": "Mais"
         }
+    ],
+    "articles":[
+        {
+            "id": 1,          
+            "img": "https://hoominterativa.com.br/apps/allin/assets/article.png",
+            "title": "Dicas"
+        },
+        {
+            "id": 2,
+            "img": "https://hoominterativa.com.br/apps/allin/assets/article.png",
+            "title": "Artigos"
+        },
+        {
+            "id": 3,           
+            "img": "https://hoominterativa.com.br/apps/allin/assets/article.png",
+            "title": "Novidades"
+        },
+        {
+            "id": 4,         
+            "img": "https://hoominterativa.com.br/apps/allin/assets/article.png",
+            "title": "Mais"
+        }
     ]
 }
