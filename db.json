@@ -3,26 +3,26 @@
         {
             "id": 1,
             "color": "#66CDD6",
-            "img": "../assets/icon1.svg",
+            "img": "https://hoominterativa.com.br/apps/allin/assets/icon1.svg",
             "title": "Dicas"
         },
         {
 
             "id": 2,
             "color": "#EDC2A3",
-            "img": "../assets/icon2.svg",
+            "img": "https://hoominterativa.com.br/apps/allin/assets/icon2.svg",
             "title": "Artigos"
         },
         {
             "id": 3,
             "color": "#A6ED90",
-            "img": "../assets/icon3.svg",
+            "img": "https://hoominterativa.com.br/apps/allin/assets/icon3.svg",
             "title": "Novidades"
         },
         {
             "id": 4,
             "color": "transparent",
-            "img": "../assets/icon4.svg",
+            "img": "https://hoominterativa.com.br/apps/allin/assets/icon4.svg",
             "title": "Mais"
         }
     ]
