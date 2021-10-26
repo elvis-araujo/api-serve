@@ -51,5 +51,27 @@
             "img": "https://hoominterativa.com.br/apps/allin/assets/article.png",
             "title": "Dicas para limpeza e manutenção do meu Alinn"
         }
+    ],
+    "faq":[
+        {
+            "id":1,
+            "question": "Como usar o meu Alinn?",
+            "owner": "Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum interdum potenti vehicula hac erat bibendum, suscipit "
+        },
+        {
+            "id":2,
+            "question": "Qual a vantagem de usar Alinn todos os dias?",
+            "owner": "Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum interdum potenti vehicula hac erat bibendum, suscipit "
+        },
+        {
+            "id":3,
+            "question": "Como remover meu Alinn?",
+            "owner": "Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum interdum potenti vehicula hac erat bibendum, suscipit "
+        },
+        {
+            "id":4,
+            "question": "Como realizar um Higiene oral adequado?",
+            "owner": "Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum interdum potenti vehicula hac erat bibendum, suscipit "
+        }
     ]
 }
