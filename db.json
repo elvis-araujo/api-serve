@@ -18,12 +18,6 @@
             "color": "#A6ED90",
             "img": "https://hoominterativa.com.br/apps/allin/assets/icon3.svg",
             "title": "Novidades"
-        },
-        {
-            "id": 4,
-            "color": "transparent",
-            "img": "https://hoominterativa.com.br/apps/allin/assets/icon4.svg",
-            "title": "Artigos"
         }
     ],
     "articles":[
