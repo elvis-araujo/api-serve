@@ -47,13 +47,6 @@
             "img": "https://hoominterativa.com.br/apps/allin/assets/article.png",
             "title": "Dicas para limpeza e manutenção do meu Alinn",
             "summary":"Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum Lorem ipsum"
-        },
-        {
-            "id": 4,         
-            "categorie_id":4,
-            "img": "https://hoominterativa.com.br/apps/allin/assets/article.png",
-            "title": "Dicas para limpeza e manutenção do meu Alinn",
-            "summary":"Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum Lorem ipsum"
         }
     ],
     "faq":[
@@ -70,37 +63,6 @@
         {
             "id":3,
             "question": "Como remover meu Alinn?",
-            "owner": "Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum interdum potenti vehicula hac erat bibendum, suscipit "
-        },
-        {
-            "id":4,
-            "question": "Como realizar um Higiene oral adequado?",
-            "owner": "Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum interdum potenti vehicula hac erat bibendum, suscipit "
-        },
-         {
-            "id":5,
-            "question": "Como realizar um Higiene oral adequado?",
-            "owner": "Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum interdum potenti vehicula hac erat bibendum, suscipit "
-        }
-        , {
-            "id":6,
-            "question": "Como realizar um Higiene oral adequado?",
-            "owner": "Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum interdum potenti vehicula hac erat bibendum, suscipit "
-        }
-        ,
-         {
-            "id":7,
-            "question": "Como realizar um Higiene oral adequado?",
-            "owner": "Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum interdum potenti vehicula hac erat bibendum, suscipit "
-        },
-         {
-            "id":8,
-            "question": "Como realizar um Higiene oral adequado?",
-            "owner": "Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum interdum potenti vehicula hac erat bibendum, suscipit "
-        },
-         {
-            "id":9,
-            "question": "Como realizar um Higiene oral adequado?",
             "owner": "Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum interdum potenti vehicula hac erat bibendum, suscipit "
         }
     ],
