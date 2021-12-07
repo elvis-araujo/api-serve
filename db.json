@@ -31,21 +31,21 @@
             "id": 1,          
             "categorie_id":1,
             "img": "https://hoominterativa.com.br/apps/allin/assets/article.png",
-            "title": "Dicas para limpeza e manutenção do meu Alinn Dicas para limpeza e manutenção do meu Alinn Dicas para limpeza e manutenção do meu Alinn",
+            "title": "Artigo01",
             "summary":"Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum Lorem ipsum"
         },
         {
             "id": 2,
             "categorie_id":2,
             "img": "https://hoominterativa.com.br/apps/allin/assets/article.png",
-            "title": "Dicas para limpeza e manutenção do meu Alinn",
+            "title": "Artigo02",
             "summary":"Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum Lorem ipsum"
         },
         {
             "id": 3,           
             "categorie_id":4,
             "img": "https://hoominterativa.com.br/apps/allin/assets/article.png",
-            "title": "Dicas para limpeza e manutenção do meu Alinn",
+            "title": "Artigo03",
             "summary":"Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum Lorem ipsum convallis fames aenean interdum potenti vehicula hac erat bibendum, suscipit aliquam rutrum malesuada euismod bibendum Lorem ipsum"
         }
     ],
